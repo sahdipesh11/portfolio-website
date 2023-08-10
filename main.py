@@ -15,3 +15,8 @@ with col2:
     The information provided here should be focused on selling myself as a prospective employee.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
